@@ -1,9 +1,9 @@
-import Suhbat from '/src/assets/Header_Image.png'
-import ipsum from '/src/assets/ipsum.svg'
-import ipsu from '/src/assets/ipsu.svg'
-import ips from '/src/assets/ips.svg'
-import ip from '/src/assets/ip.svg'
-import summ from '/src/assets/summ.svg'
+import Suhbat from '../assets/Header_Image.png'
+import ipsum from '../assets/ipsum.svg'
+import ipsu from '../assets/ipsu.svg'
+import ips from '../assets/ips.svg'
+import ip from '../assets/ip.svg'
+import summ from '../assets/summ.svg'
 
 export default function Header() {
     

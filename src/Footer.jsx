@@ -1,5 +1,5 @@
-import logo from '/src/assets/Logo.svg'
-import ker from '/src/assets/ker.svg'
+import logo from '../assets/Logo.svg'
+import ker from '../assets/ker.svg'
 
 export default function Footer() {
     return (

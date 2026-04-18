@@ -1,6 +1,6 @@
-import Raketa from "/src/assets/Rakete.svg"
-import gul from "/src/assets/gul.svg"
-import navish from "/src/assets/navish.svg"
+import Raketa from "../assets/Rakete.svg"
+import gul from "../assets/gul.svg"
+import navish from "../assets/navish.svg"
 
 
 

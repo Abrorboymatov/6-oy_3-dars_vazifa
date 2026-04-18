@@ -1,7 +1,7 @@
-import Kom from './assets/Kom.png'
-import negr from './assets/negr.png'
-import chiroyli from './assets/chiroylii.png'
-import shapes from './assets/shapes.svg'
+import Kom from '../assets/Kom.png'
+import negr from '../assets/negr.png'
+import chiroyli from '../assets/chiroylii.png'
+import shapes from '../assets/shapes.svg'
 
 
 export default function about() {

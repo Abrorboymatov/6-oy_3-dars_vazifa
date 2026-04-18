@@ -1,6 +1,6 @@
-import Quloqchin from "/src/assets/Quloqchin.svg"
-import  Nastr from "/src/assets/Nastr.svg"
-import Divel from "/src/assets/Divel.svg"
+import Quloqchin from "../assets/Quloqchin.svg"
+import  Nastr from "../assets/Nastr.svg"
+import Divel from "../assets/Divel.svg"
 
 
 export default function Services() {
