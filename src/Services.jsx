@@ -1,5 +1,5 @@
 import Quloqchin from "./assets/Quloqchin.svg"
-import  Nastr from "./assets/nastr.svg"
+import  Nastr from "./assets/Nastr.svg"
 import Divel from "./assets/Divel.svg"
 
 
