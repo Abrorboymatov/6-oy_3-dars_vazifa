@@ -1,7 +1,7 @@
-import Negr from "../assets/Negr.svg"
-import Oqtanli from "../assets/Oqtanli.svg"
-import Achki from "../assets/Achki.svg"
-import Tayoqcha from "../assets/Tayoqcha.png"
+import Negr from "./assets/Negr.svg"
+import Oqtanli from "./assets/Oqtanli.svg"
+import Achki from "./assets/Achki.svg"
+import Tayoqcha from "./assets/Tayoqcha.png"
 
 
 

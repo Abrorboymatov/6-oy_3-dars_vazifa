@@ -1,9 +1,9 @@
-import Svet from "../assets/Svet.svg"
-import Xat from "../assets/Xat.svg"
-import Fron from "../assets/Fron.svg"
-import Test from "../assets/Test.svg"
-import Uchar from "../assets/Uchar.svg"
-import Klyuch from "../assets/Klyuch.svg"
+import Svet from "./assets/Svet.svg"
+import Xat from "./assets/Xat.svg"
+import Fron from "./assets/Fron.svg"
+import Test from "./assets/Test.svg"
+import Uchar from "./assets/Uchar.svg"
+import Klyuch from "./assets/Klyuch.svg"
 
 
 
